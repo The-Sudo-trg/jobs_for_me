@@ -1,4 +1,16 @@
 {
-  "jobs": {},
-  "last_checked": "2026-10-03T12:42:45+00:00"
+  "jobs": {
+    "Himalayas:https://himalayas.app/companies/applied-systems/jobs/remote-data-entry-clerk-typing-part-time-entry-level-united-kingdom": {
+      "key": "Himalayas:https://himalayas.app/companies/applied-systems/jobs/remote-data-entry-clerk-typing-part-time-entry-level-united-kingdom",
+      "title": "Remote Data Entry Clerk - Typing - Part Time Entry Level-United Kingdom",
+      "company": "Applied Systems",
+      "url": "https://himalayas.app/companies/applied-systems/jobs/remote-data-entry-clerk-typing-part-time-entry-level-united-kingdom",
+      "location": "United Kingdom",
+      "published": "2026-10-04T06:37:43+00:00",
+      "source": "Himalayas",
+      "match": "Internship / early-career software",
+      "first_found": "2026-10-04T08:38:09+00:00"
+    }
+  },
+  "last_checked": "2026-10-04T08:38:09+00:00"
 }
