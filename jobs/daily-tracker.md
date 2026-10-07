@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-06T18:31:32+00:00
+Last checked: 2026-10-07T09:01:20+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/).
