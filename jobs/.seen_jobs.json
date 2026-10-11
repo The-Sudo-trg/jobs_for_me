@@ -32,7 +32,18 @@
       "source": "Arbeitnow",
       "match": "Internship / early-career software",
       "first_found": "2026-10-07T19:01:23+00:00"
+    },
+    "Himalayas:https://himalayas.app/companies/clear-street-markets/jobs/senior-staff-software-engineer": {
+      "key": "Himalayas:https://himalayas.app/companies/clear-street-markets/jobs/senior-staff-software-engineer",
+      "title": "Senior / Staff Software Engineer",
+      "company": "Clear Street Markets",
+      "url": "https://himalayas.app/companies/clear-street-markets/jobs/senior-staff-software-engineer",
+      "location": "United States",
+      "published": "2026-10-11T16:48:57+00:00",
+      "source": "Himalayas",
+      "match": "Rust-related",
+      "first_found": "2026-10-11T17:44:26+00:00"
     }
   },
-  "last_checked": "2026-10-11T09:08:13+00:00"
+  "last_checked": "2026-10-11T17:44:26+00:00"
 }
