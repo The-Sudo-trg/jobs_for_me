@@ -43,7 +43,29 @@
       "source": "Himalayas",
       "match": "Rust-related",
       "first_found": "2026-10-11T17:44:26+00:00"
+    },
+    "Himalayas:https://himalayas.app/companies/micro1/jobs/junior-software-engineer": {
+      "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/junior-software-engineer",
+      "title": "Junior Software Engineer",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/junior-software-engineer",
+      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+      "published": "2026-10-13T07:34:48+00:00",
+      "source": "Himalayas",
+      "match": "Internship / early-career software",
+      "first_found": "2026-10-13T09:38:01+00:00"
+    },
+    "Himalayas:https://himalayas.app/companies/micro1/jobs/junior-data-scientist": {
+      "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/junior-data-scientist",
+      "title": "Junior Data Scientist",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/junior-data-scientist",
+      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+      "published": "2026-10-13T07:34:47+00:00",
+      "source": "Himalayas",
+      "match": "Internship / early-career software",
+      "first_found": "2026-10-13T09:38:01+00:00"
     }
   },
-  "last_checked": "2026-10-12T21:20:49+00:00"
+  "last_checked": "2026-10-13T09:38:01+00:00"
 }
