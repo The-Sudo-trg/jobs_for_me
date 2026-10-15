@@ -65,7 +65,18 @@
       "source": "Himalayas",
       "match": "Internship / early-career software",
       "first_found": "2026-10-13T09:38:01+00:00"
+    },
+    "Himalayas:https://himalayas.app/companies/gosquad/jobs/intern-frontend-engineer": {
+      "key": "Himalayas:https://himalayas.app/companies/gosquad/jobs/intern-frontend-engineer",
+      "title": "Intern Frontend Engineer",
+      "company": "Squad",
+      "url": "https://himalayas.app/companies/gosquad/jobs/intern-frontend-engineer",
+      "location": "Ukraine",
+      "published": "2026-10-15T15:12:22+00:00",
+      "source": "Himalayas",
+      "match": "Internship / early-career software",
+      "first_found": "2026-10-15T17:14:47+00:00"
     }
   },
-  "last_checked": "2026-10-15T07:37:55+00:00"
+  "last_checked": "2026-10-15T17:14:47+00:00"
 }
