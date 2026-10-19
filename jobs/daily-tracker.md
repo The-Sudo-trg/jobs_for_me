@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-18T16:02:36+00:00
+Last checked: 2026-10-19T07:59:13+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-10-19T07:59:13+00:00 | [QA Engineer - Backend (Golang) Junior+](<https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/qa-engineer-backend-golang-junior?utm_source=api>) | Banco Plata, S.A., Institución de Banca Múltiple | Georgia, Serbia | Internship / early-career software | Himalayas |
 | 2026-10-15T17:14:47+00:00 | [Intern Frontend Engineer](<https://himalayas.app/companies/gosquad/jobs/intern-frontend-engineer>) | Squad | Ukraine | Internship / early-career software | Himalayas |
 | 2026-10-13T09:38:01+00:00 | [Junior Software Engineer](<https://himalayas.app/companies/micro1/jobs/junior-software-engineer>) | micro1 | Australia, Canada, New Zealand, United Kingdom, United States | Internship / early-career software | Himalayas |
 | 2026-10-13T09:38:01+00:00 | [Junior Data Scientist](<https://himalayas.app/companies/micro1/jobs/junior-data-scientist>) | micro1 | Australia, Canada, New Zealand, United Kingdom, United States | Internship / early-career software | Himalayas |
