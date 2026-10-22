@@ -48,5 +48,35 @@
     "source": "Crypto Jobs List",
     "url": "https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro",
     "processed_at": "2026-10-22T13:33:44+00:00"
+  },
+  "We Work Remotely:https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote": {
+    "folder": "107-moonshot-solidity-rust-remote",
+    "score": 90,
+    "verdict": "apply",
+    "title": "(Solidity / Rust) – Remote",
+    "company": "Moonshot",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "processed_at": "2026-10-22T16:43:20+00:00"
+  },
+  "Crypto Jobs List:https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken": {
+    "folder": "108-kraken-senior-full-stack-engineer-gro",
+    "score": 90,
+    "verdict": "apply",
+    "title": "Senior Full Stack Engineer, Growth & Experimentation – Krak",
+    "company": "kraken",
+    "source": "Crypto Jobs List",
+    "url": "https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken",
+    "processed_at": "2026-10-22T16:45:07+00:00"
+  },
+  "Crypto Jobs List:https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs": {
+    "folder": "109-chainlink-labs-security-engineer-product-secu",
+    "score": 90,
+    "verdict": "apply",
+    "title": "Security Engineer, Product Security",
+    "company": "chainlink labs",
+    "source": "Crypto Jobs List",
+    "url": "https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs",
+    "processed_at": "2026-10-22T16:46:37+00:00"
   }
 }
