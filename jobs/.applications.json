@@ -1,0 +1,52 @@
+{
+  "Arbeitnow:machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875": {
+    "folder": "100-imnoo-ag-machine-learning-computer-grap",
+    "score": 30,
+    "verdict": "skip",
+    "title": "Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior",
+    "company": "Imnoo AG",
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875",
+    "processed_at": "2026-10-22T13:20:30+00:00"
+  },
+  "Arbeitnow:remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969": {
+    "folder": "101-imnoo-ag-ai-cad-cam-iot-engineer-tinker",
+    "score": 85,
+    "verdict": "apply",
+    "title": "AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior",
+    "company": "Imnoo AG",
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969",
+    "processed_at": "2026-10-22T13:23:30+00:00"
+  },
+  "Crypto Jobs List:https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1": {
+    "folder": "102-stellar-development-foundation-staff-software-engineer-c-rust",
+    "score": 85,
+    "verdict": "apply",
+    "title": "Staff Software Engineer, C++/Rust",
+    "company": "stellar development foundation",
+    "source": "Crypto Jobs List",
+    "url": "https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1",
+    "processed_at": "2026-10-22T13:25:49+00:00"
+  },
+  "Crypto Jobs List:https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1": {
+    "folder": "103-saifuro-smart-contract-engineer-solidi",
+    "score": 85,
+    "verdict": "apply",
+    "title": "Smart Contract Engineer (Solidity, EVM)",
+    "company": "saifuro",
+    "source": "Crypto Jobs List",
+    "url": "https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1",
+    "processed_at": "2026-10-22T13:28:48+00:00"
+  },
+  "Crypto Jobs List:https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro": {
+    "folder": "104-saifuro-smart-contract-engineer-rust-s",
+    "score": 90,
+    "verdict": "apply",
+    "title": "Smart Contract Engineer (Rust, Solana)",
+    "company": "saifuro",
+    "source": "Crypto Jobs List",
+    "url": "https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro",
+    "processed_at": "2026-10-22T13:33:44+00:00"
+  }
+}

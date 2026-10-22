@@ -1,18 +1,42 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-22T07:49:18+00:00
+Last checked: 2026-10-22T13:17:56+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
-Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/).
+Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
 Listings are linked to their original source; remote and eligibility restrictions may apply.
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-10-22T13:17:56+00:00 | [Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior](<https://www.arbeitnow.com/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875>) | Imnoo AG | Remote job | Internship / early-career software | Arbeitnow |
+| 2026-10-22T13:17:56+00:00 | [AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior](<https://www.arbeitnow.com/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969>) | Imnoo AG | Remote job | Internship / early-career software | Arbeitnow |
+| 2026-10-22T12:40:07+00:00 | [Senior Vue Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1>) | Lemon.io | Remote | Rust-related | We Work Remotely |
+| 2026-10-22T12:40:07+00:00 | [Core Protocol Engineer](<https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer>) | Ritual | Remote | Rust-related | We Work Remotely |
 | 2026-10-19T07:59:13+00:00 | [QA Engineer - Backend (Golang) Junior+](<https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/qa-engineer-backend-golang-junior?utm_source=api>) | Banco Plata, S.A., Institución de Banca Múltiple | Georgia, Serbia | Internship / early-career software | Himalayas |
+| 2026-10-22T12:40:07+00:00 | [Senior Software Engineer, Product Platform](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform>) | Lithic | Remote | Rust-related | We Work Remotely |
+| 2026-10-22T12:40:07+00:00 | [Staff Software Engineer - Connectivity](<https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity>) | Dremio | Remote | Rust-related | We Work Remotely |
+| 2026-10-22T12:40:07+00:00 | [Software Engineer, AI Coding Tasks](<https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158>) | Askable | Worldwide | Rust-related | Remotive |
+| 2026-10-22T12:40:07+00:00 | [Software Engineer, AI Coding Tasks (Contract)](<https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract>) | Askable | Remote | Rust-related | We Work Remotely |
 | 2026-10-15T17:14:47+00:00 | [Intern Frontend Engineer](<https://himalayas.app/companies/gosquad/jobs/intern-frontend-engineer>) | Squad | Ukraine | Internship / early-career software | Himalayas |
 | 2026-10-13T09:38:01+00:00 | [Junior Software Engineer](<https://himalayas.app/companies/micro1/jobs/junior-software-engineer>) | micro1 | Australia, Canada, New Zealand, United Kingdom, United States | Internship / early-career software | Himalayas |
 | 2026-10-13T09:38:01+00:00 | [Junior Data Scientist](<https://himalayas.app/companies/micro1/jobs/junior-data-scientist>) | micro1 | Australia, Canada, New Zealand, United Kingdom, United States | Internship / early-career software | Himalayas |
 | 2026-10-11T17:44:26+00:00 | [Senior / Staff Software Engineer](<https://himalayas.app/companies/clear-street-markets/jobs/senior-staff-software-engineer>) | Clear Street Markets | United States | Rust-related | Himalayas |
+| 2026-10-22T12:40:07+00:00 | [Senior React Full-stack Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7>) | Lemon.io | Remote | Rust-related | We Work Remotely |
+| 2026-10-22T12:40:07+00:00 | [Senior .NET Full-stack Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2>) | Lemon.io | Remote | Rust-related | We Work Remotely |
 | 2026-10-07T19:01:23+00:00 | [Junior Cloud Operations Engineer (all genders) CH](<https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-284023>) | BSI Software | Homeoffice | Internship / early-career software | Arbeitnow |
 | 2026-10-06T18:31:32+00:00 | [Junior GTM Engineer - Deutsch C1 - 100% remote](<https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031>) | Pipebuilders | München | Internship / early-career software | Arbeitnow |
+| 2026-10-22T12:40:07+00:00 | [Senior Angular Full-stack Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer>) | Lemon.io | Remote | Rust-related | We Work Remotely |
+| 2026-10-22T12:40:07+00:00 | [Backend Engineer (Multiple Positions)](<https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions>) | LaunchDarkly | Remote | Rust-related | We Work Remotely |
 | 2026-10-04T08:38:09+00:00 | [Remote Data Entry Clerk - Typing - Part Time Entry Level-United Kingdom](<https://himalayas.app/companies/applied-systems/jobs/remote-data-entry-clerk-typing-part-time-entry-level-united-kingdom>) | Applied Systems | United Kingdom | Internship / early-career software | Himalayas |
+| 2026-10-22T12:40:07+00:00 | [Senior React Full-stack Developer](<https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133>) | Lemon.io | Europe, USA, Canada, APAC | Rust-related | Remotive |
+| 2026-10-22T12:40:07+00:00 | [Senior back-end Engineer](<https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132>) | Lemon.io | Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway | Rust-related | Remotive |
+| 2026-10-22T12:40:07+00:00 | [Senior Software Engineer, Card Authorization](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization>) | Lithic | Remote | Rust-related | We Work Remotely |
+| 2026-10-22T12:41:13+00:00 | [Staff Software Engineer, C++/Rust](<https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1>) | stellar development foundation | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Solidity, EVM)](<https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1>) | saifuro | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Rust, Solana)](<https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Senior Full Stack Engineer, Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken>) | kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Information Security Engineer, Product](<https://cryptojobslist.com/jobs/information-security-engineer-product-remote-global-us-eu-at-aptos>) | aptos | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Forward Deployed Engineer](<https://cryptojobslist.com/jobs/forward-deployed-engineer-geneva-zurich-at-blockstream>) | blockstream | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Blockchain Security Expert - Anti Defect Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-anti-defect-us-remote-at-certik>) | certik | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
