@@ -423,7 +423,19 @@
       "match": "Rust-related",
       "description": "Tags: Web3 Jobs • Web3 Full Stack Jobs • Blockchain Senior Jobs • Blockchain Typescript Jobs • Cryptocurrency Node Js Jobs • Blockchain React Native Jobs • Web3 Web3 Jobs • Blockchain Stablecoin Jobs About Fin Fin is a next-generation payments platform built for high-value, global, and instant transactions. We are a Series A-stage company backed by Sequoia, Circle, and other notable investors. Powered by stablecoins, Fin enables users and businesses to move millions of dollars in seconds - whether to other Fin users, directly into bank accounts, or across crypto rails. By combining the speed of crypto with the reliability and trust of traditional finance, Fin reimagines how money moves worldwide. If banks and payment products were reinvented today, they would look like Fin. About the role We are looking for a Senior Full Stack Engineer to join the early team and help define how money moves on Fin. You will work closely with the CEO, CTO, and a small group of senior engineers to design and ship core product experiences, integrate with payment partners (Stripe, PayPal, on and off ramps, banks), and build the systems that let Fin handle millions of transactions safely and reliably. This is a highly autonomous role where you own projects end to end, from shaping the spec to deployment, and see your work in the hands of real users quickly. If you care about building simple products on top of complex systems and are excited about fixing how global payments work, we would love to talk. We value your time: our process focuses on practical system design and architectural discussions , not LeetCode grinding or unpaid take-home assignments. What you will do Design, build, and ship full stack features across our web and mobile surfaces, from APIs and services to polished user interfaces. Own projects end to end: work with product and leadership to scope requirements, design systems, implement, test, and ship to production. Integrate third party payment and financial APIs, including processors, on and off ramps, compliance tooling, and identity providers. Build scalable, high performance services that handle real money movement with strong reliability and observability. Maintain a high bar for code quality through clean abstractions, tests, and thoughtful code review. Collaborate closely with product, design, and operations so that what we ship feels simple for users even when the underlying system is complex. What you need to be successful Deep experience with TypeScript and Node.js . We are mostly a TS shop with some pockets of Rust. Production experience with React Native. Bonus points if you are familiar with the Expo ecosystem and modern mobile build pipelines. Experience owning complex product changes from idea through launch, not just implementing narrow tickets. Deep comfort debugging across the stack, from database and infrastructure issues to front end performance problems. Solid understanding of security best practices, particularly around authenti",
       "first_found": "2026-10-23T17:20:44+00:00"
+    },
+    "Jobicy:149566": {
+      "key": "Jobicy:149566",
+      "title": "Rust Engineering Lead - Linux and Open Source",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
+      "location": "Anywhere",
+      "published": "2026-10-24T03:45:26+00:00",
+      "source": "Jobicy",
+      "match": "Rust-related",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders…",
+      "first_found": "2026-10-24T07:30:04+00:00"
     }
   },
-  "last_checked": "2026-10-23T17:20:44+00:00"
+  "last_checked": "2026-10-24T07:30:04+00:00"
 }
