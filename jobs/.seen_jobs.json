@@ -435,7 +435,67 @@
       "match": "Rust-related",
       "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders…",
       "first_found": "2026-10-24T07:30:04+00:00"
+    },
+    "We Work Remotely:https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres": {
+      "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+      "title": "Software Engineer - PlanetScale Postgres",
+      "company": "PlanetScale",
+      "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+      "location": "Remote",
+      "published": "2026-10-25T07:30:54+00:00",
+      "source": "We Work Remotely",
+      "match": "Rust-related",
+      "description": "Headquarters: Remote PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products. Our customers entrust us with their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our Postgres engineering team and help us build a world-class managed Postgres offering. What's the job to be done? You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime. You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures. You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world. You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation. You will work directly with customers to understand their workloads and translate real-world needs into platform improvements. These attributes best describe you… You have strong experience building, operating, or maintaining large-scale Postgres deployments in production. You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance. You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems. You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly. You are self-motivated and can work independently with minimal guidance while making sound technical decisions. What you will need 5+ years of software engineering experience designing, building, and supporting large-scale systems in production. Strong proficiency in Go, with experience in other languages like Ruby, Python, Zig or Rust. Experience building and maintaining distributed, fault-tolerant services. Working knowledge of Kubernetes and containerized applications. Experience building and operating distributed systems at scale. What else will help you be successful Experience building or operating a database-as-a-service or managed database platform. Experience with connection pooling and proxy layers for Postgres. Experience with cloud platforms (AWS, GCP, Azure) and infrastructure-as-code. Contributions to open-source projects, especially in the Postgres or database infrastructure space. Experience working with remote, geographically distributed teams. Previous experience at a high-growth technology company. Why PlanetScale We're redefining how high-growth companies manage data at scale—and we work with some of ",
+      "first_found": "2026-10-25T07:43:37+00:00"
+    },
+    "Jobicy:149520": {
+      "key": "Jobicy:149520",
+      "title": "Junior Linux Kernel Engineer - Ubuntu",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
+      "location": "Anywhere",
+      "published": "2026-10-25T04:15:04+00:00",
+      "source": "Jobicy",
+      "match": "Internship / early-career software",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders…",
+      "first_found": "2026-10-25T07:43:37+00:00"
+    },
+    "Jobicy:151470": {
+      "key": "Jobicy:151470",
+      "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang",
+      "location": "USA",
+      "published": "2026-10-25T04:09:53+00:00",
+      "source": "Jobicy",
+      "match": "Rust-related",
+      "description": "About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects…",
+      "first_found": "2026-10-25T07:43:37+00:00"
+    },
+    "Jobicy:156809": {
+      "key": "Jobicy:156809",
+      "title": "Developer Intern, Data Security - Winter 2027",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/156809-developer-intern-data-security-winter-2027",
+      "location": "Canada, USA",
+      "published": "2026-10-24T17:06:42+00:00",
+      "source": "Jobicy",
+      "match": "Internship / early-career software",
+      "description": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is…",
+      "first_found": "2026-10-25T07:43:37+00:00"
+    },
+    "Crypto Jobs List:https://cryptojobslist.com/jobs/senior-software-engineer-full-stack-brazil-peru-sweden-colombia-romania-at-kraken": {
+      "key": "Crypto Jobs List:https://cryptojobslist.com/jobs/senior-software-engineer-full-stack-brazil-peru-sweden-colombia-romania-at-kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "company": "Kraken",
+      "url": "https://cryptojobslist.com/jobs/senior-software-engineer-full-stack-brazil-peru-sweden-colombia-romania-at-kraken",
+      "location": "Remote",
+      "published": "",
+      "source": "Crypto Jobs List",
+      "match": "Rust-related",
+      "description": "Tags: Web3 Jobs • Blockchain Senior Jobs • Cryptocurrency Full Stack Jobs • Blockchain Engineering Jobs • Blockchain React Jobs • Web3 Typescript Jobs • Web3 Remote Jobs • Cryptocurrency Web3 Jobs Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. Before you apply, we encourage you to explore our culture page to understand what drives us and how we work. The team Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients. The Growth Engineering team builds the experiences that connect people to our ecosystem for the first time — and keeps them coming back. We design and ship the systems behind our marketing funnels, signup and KYC flows, and the key engagement features that help new users fund their accounts and explore our products. It’s a team with direct influence on company growth, global reach, and user engagement at scale. Our products serve millions of users globally. How We Work We give engineers ownership and trust them to ship high-impact work with craftsmanship and accountability. We move quickly, experiment often, and learn fast from data and feedback. We work asynchronously across time zones, supporting each other with open communication and shared goals. Why This Role Matters Every feature you build will have a visible impact on how people discover, trust, and engage with our products globally. The Growth Engineering team operates at the intersection of product, marketing, and infrastructure — turning ideas into measurable results. If you’re an engineer who enjoys solving business problems through code and believes engineering excellence drives growth, this role is built for you. The opportunity As a Senior Product Engineer within the Growth team, you’ll take on complex, high-impact problems that blend product thinking and engineering excellence. You’ll work across web and mobile platforms, collaborating with design, data, and product teams to deliver features that drive measurable business outcomes. This is an ideal role for engineers who use their technical skills to create real-world impact — translating high-level business goals into engineering solutions that improve activation, retention, and monetization worldwide. Partner with product managers, designers, and analysts to identify growth opportunities and turn them into high-quality, data-driven engineering solutions. Implement reusable services and components that power marketing campaigns, onboarding, KYC, and first-funding experiences across web and mobile. ",
+      "first_found": "2026-10-25T07:43:37+00:00"
     }
   },
-  "last_checked": "2026-10-24T16:09:14+00:00"
+  "last_checked": "2026-10-25T07:43:37+00:00"
 }

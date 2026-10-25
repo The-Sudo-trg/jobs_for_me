@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-24T16:09:14+00:00
+Last checked: 2026-10-25T07:43:37+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,10 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-10-25T07:43:37+00:00 | [Software Engineer - PlanetScale Postgres](<https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres>) | PlanetScale | Remote | Rust-related | We Work Remotely |
+| 2026-10-25T07:43:37+00:00 | [Junior Linux Kernel Engineer - Ubuntu](<https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu>) | Canonical | Anywhere | Internship / early-career software | Jobicy |
+| 2026-10-25T07:43:37+00:00 | [Blockchain Security Engineer - (Solidity / Rust / Golang)](<https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang>) | CertiK | USA | Rust-related | Jobicy |
+| 2026-10-25T07:43:37+00:00 | [Developer Intern, Data Security - Winter 2027](<https://jobicy.com/jobs/156809-developer-intern-data-security-winter-2027>) | 1Password | Canada, USA | Internship / early-career software | Jobicy |
 | 2026-10-24T07:30:04+00:00 | [Rust Engineering Lead - Linux and Open Source](<https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source>) | Canonical | Anywhere | Rust-related | Jobicy |
 | 2026-10-23T17:20:44+00:00 | [Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) – 100% Remote within Poland](<https://jobicy.com/jobs/156547-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-poland-2>) | Docplanner | Poland | Internship / early-career software | Jobicy |
 | 2026-10-22T14:41:03+00:00 | [(Solidity / Rust) – Remote](<https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote>) | Moonshot | Remote | Rust-related | We Work Remotely |
@@ -37,6 +41,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Staff Software Engineer, C++/Rust](<https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1>) | stellar development foundation | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Solidity, EVM)](<https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Rust, Solana)](<https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-25T07:43:37+00:00 | [Senior Software Engineer - Full-stack - Growth Product](<https://cryptojobslist.com/jobs/senior-software-engineer-full-stack-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T17:20:44+00:00 | [Senior Full-Stack Software Engineer](<https://cryptojobslist.com/jobs/senior-full-stack-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Senior Full Stack Engineer, Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken>) | kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
