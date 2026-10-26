@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-26T07:59:31+00:00
+Last checked: 2026-10-26T18:46:33+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-10-26T18:46:33+00:00 | [Backend Engineer, Knowledge Graph (Rust)](<https://jobicy.com/jobs/157191-backend-engineer-knowledge-graph-rust>) | GitLab | Canada, USA | Rust-related | Jobicy |
 | 2026-10-25T07:43:37+00:00 | [Software Engineer - PlanetScale Postgres](<https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres>) | PlanetScale | Remote | Rust-related | We Work Remotely |
 | 2026-10-25T07:43:37+00:00 | [Junior Linux Kernel Engineer - Ubuntu](<https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu>) | Canonical | Anywhere | Internship / early-career software | Jobicy |
 | 2026-10-25T07:43:37+00:00 | [Blockchain Security Engineer - (Solidity / Rust / Golang)](<https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang>) | CertiK | USA | Rust-related | Jobicy |
@@ -48,5 +49,6 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Information Security Engineer, Product](<https://cryptojobslist.com/jobs/information-security-engineer-product-remote-global-us-eu-at-aptos>) | aptos | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T07:48:31+00:00 | [Graduate DeFi Algorithmic Trader](<https://cryptojobslist.com/jobs/graduate-defi-algorithmic-trader-singapore-at-wintermute>) | Wintermute | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Forward Deployed Engineer](<https://cryptojobslist.com/jobs/forward-deployed-engineer-geneva-zurich-at-blockstream>) | blockstream | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-26T18:46:33+00:00 | [Compliance Engineer Intern](<https://cryptojobslist.com/jobs/compliance-engineer-intern-europe-asia-at-certik>) | CertiK | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Blockchain Security Expert - Anti Defect Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-anti-defect-us-remote-at-certik>) | certik | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
