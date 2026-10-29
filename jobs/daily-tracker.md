@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-28T18:25:28+00:00
+Last checked: 2026-10-29T08:44:13+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-10-29T08:44:13+00:00 | [Senior Back-end Developer](<https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135>) | Lemon.io | Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia | Rust-related | Remotive |
 | 2026-10-26T18:46:33+00:00 | [Backend Engineer, Knowledge Graph (Rust)](<https://jobicy.com/jobs/157191-backend-engineer-knowledge-graph-rust>) | GitLab | Canada, USA | Rust-related | Jobicy |
 | 2026-10-25T07:43:37+00:00 | [Software Engineer - PlanetScale Postgres](<https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres>) | PlanetScale | Remote | Rust-related | We Work Remotely |
 | 2026-10-25T07:43:37+00:00 | [Junior Linux Kernel Engineer - Ubuntu](<https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu>) | Canonical | Anywhere | Internship / early-career software | Jobicy |
