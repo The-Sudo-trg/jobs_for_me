@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-29T08:44:13+00:00
+Last checked: 2026-10-29T18:35:22+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -58,3 +58,4 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Blockchain Security Expert - Anti Defect Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-anti-defect-us-remote-at-certik>) | certik | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-27T18:08:43+00:00 | [Backend Engineer (Contract - LATAM)](<https://cryptojobslist.com/jobs/backend-engineer-contract-latam-remote-at-nexus>) | Nexus | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
+| 2026-10-29T18:35:22+00:00 | [Associate, Blockchain Security Engineer](<https://cryptojobslist.com/jobs/associate-blockchain-security-engineer-india-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
