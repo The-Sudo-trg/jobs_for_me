@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-30T18:07:28+00:00
+Last checked: 2026-10-31T08:37:58+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,11 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-10-31T08:37:58+00:00 | [Backend Product Software Engineer](<https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1>) | Dropbox | Remote | Rust-related | We Work Remotely |
+| 2026-10-31T08:37:58+00:00 | [Distributed Systems Engineer](<https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer>) | Ritual | Remote | Rust-related | We Work Remotely |
+| 2026-10-31T08:37:58+00:00 | [Developer Experience Engineer](<https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer>) | Ritual | Remote | Rust-related | We Work Remotely |
+| 2026-10-31T08:37:58+00:00 | [Backend Product Software Engineer](<https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer>) | Dropbox | Remote | Rust-related | We Work Remotely |
+| 2026-10-31T08:37:58+00:00 | [Backend Engineer, Knowledge Graph](<https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph>) | GitLab | Remote | Rust-related | We Work Remotely |
 | 2026-10-29T08:44:13+00:00 | [Senior Back-end Developer](<https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135>) | Lemon.io | Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia | Rust-related | Remotive |
 | 2026-10-26T18:46:33+00:00 | [Backend Engineer, Knowledge Graph (Rust)](<https://jobicy.com/jobs/157191-backend-engineer-knowledge-graph-rust>) | GitLab | Canada, USA | Rust-related | Jobicy |
 | 2026-10-25T07:43:37+00:00 | [Software Engineer - PlanetScale Postgres](<https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres>) | PlanetScale | Remote | Rust-related | We Work Remotely |
