@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-10-31T17:18:49+00:00
+Last checked: 2026-11-01T09:29:22+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -49,6 +49,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-28T18:25:28+00:00 | [Staff Site Reliability Engineer - Dev Platform](<https://cryptojobslist.com/jobs/staff-site-reliability-engineer-dev-brazil-peru-colombia-argentina-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Solidity, EVM)](<https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Rust, Solana)](<https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-01T09:29:22+00:00 | [Senior Software Engineer, Platform Infrastructure](<https://cryptojobslist.com/jobs/senior-software-engineer-platform-palo-alto-california-at-aptos>) | Aptos | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-25T07:43:37+00:00 | [Senior Software Engineer - Full-stack - Growth Product](<https://cryptojobslist.com/jobs/senior-software-engineer-full-stack-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T08:49:15+00:00 | [Senior Smart Contract Engineer](<https://cryptojobslist.com/jobs/senior-smart-contract-engineer-united-states-at-coinlist>) | CoinList | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T17:20:44+00:00 | [Senior Full-Stack Software Engineer](<https://cryptojobslist.com/jobs/senior-full-stack-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
