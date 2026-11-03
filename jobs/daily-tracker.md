@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-03T09:49:02+00:00
+Last checked: 2026-11-03T19:41:38+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,8 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-03T19:41:38+00:00 | [Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior](<https://www.arbeitnow.ch/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-zurich-312397>) | Imnoo AG | Remote job | Internship / early-career software | Arbeitnow |
+| 2026-11-03T19:41:38+00:00 | [AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior](<https://www.arbeitnow.ch/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-zurich-124576>) | Imnoo AG | Remote job | Internship / early-career software | Arbeitnow |
 | 2026-11-02T09:46:08+00:00 | [Senior Software Engineer - Go & Rust, Blockchain Infrastructure](<https://jobicy.com/jobs/154392-senior-software-engineer-go-rust-blockchain-infrastructure>) | QuickNode | Portugal, USA | Rust-related | Jobicy |
 | 2026-10-31T08:37:58+00:00 | [Backend Product Software Engineer](<https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1>) | Dropbox | Remote | Rust-related | We Work Remotely |
 | 2026-10-31T08:37:58+00:00 | [Distributed Systems Engineer](<https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer>) | Ritual | Remote | Rust-related | We Work Remotely |
