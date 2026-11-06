@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-05T20:10:54+00:00
+Last checked: 2026-11-06T09:37:04+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-06T09:37:04+00:00 | [Contract Staff Software Engineer - Performance Graphics (C++,Rust, WebGL)](<https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl>) | Mozilla | Canada | Rust-related | Jobicy |
 | 2026-11-05T09:42:40+00:00 | [Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang )](<https://jobicy.com/jobs/152447-blockchain-security-engineer-senior-level-solidity-rust-golang>) | CertiK | USA | Rust-related | Jobicy |
 | 2026-11-03T19:41:38+00:00 | [Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior](<https://www.arbeitnow.ch/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-zurich-312397>) | Imnoo AG | Remote job | Internship / early-career software | Arbeitnow |
 | 2026-11-03T19:41:38+00:00 | [AI CAD CAM IoT Engineer / Tinkerer CNC - Junior/Mid/Senior](<https://www.arbeitnow.ch/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-zurich-124576>) | Imnoo AG | Remote job | Internship / early-career software | Arbeitnow |
@@ -51,6 +52,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:40:07+00:00 | [Senior Software Engineer, Card Authorization](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization>) | Lithic | Remote | Rust-related | We Work Remotely |
 | 2026-10-22T12:41:13+00:00 | [Staff Software Engineer, C++/Rust](<https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1>) | stellar development foundation | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T18:25:28+00:00 | [Staff Site Reliability Engineer - Dev Platform](<https://cryptojobslist.com/jobs/staff-site-reliability-engineer-dev-brazil-peru-colombia-argentina-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-06T09:37:04+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Solidity, EVM)](<https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Rust, Solana)](<https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Smart Contract Engineer](<https://cryptojobslist.com/jobs/smart-contract-engineer-new-york-united-states-at-paxos-labs>) | Paxos Labs | Remote | Rust-related | Crypto Jobs List |
@@ -63,6 +65,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-02T21:51:04+00:00 | [Rust Engineer](<https://cryptojobslist.com/jobs/rust-engineer-remote-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Quantitative Developer Intern(Options Market Making)](<https://cryptojobslist.com/jobs/quantitative-developer-intern-options-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
+| 2026-11-06T09:37:04+00:00 | [Quant Strategy & AI Agent Intern](<https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-10-27T18:08:43+00:00 | [Off-Cycle Fall 2026 Cybersecurity Internship](<https://cryptojobslist.com/jobs/off-cycle-fall-2026-cybersecurity-remote-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Information Security Engineer, Product](<https://cryptojobslist.com/jobs/information-security-engineer-product-remote-global-us-eu-at-aptos>) | aptos | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T07:48:31+00:00 | [Graduate DeFi Algorithmic Trader](<https://cryptojobslist.com/jobs/graduate-defi-algorithmic-trader-singapore-at-wintermute>) | Wintermute | Remote | Rust-related | Crypto Jobs List |

@@ -807,7 +807,43 @@
       "match": "Rust-related",
       "description": "About the Role: We are seeking a Senior Blockchain Security Engineer with a strong security mindset and deep technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. You will play a critical role in safeguarding Web3 projects by auditing code, building security tools, and driving research. If you have hands-on experience in Web3 and…",
       "first_found": "2026-11-05T09:42:40+00:00"
+    },
+    "Jobicy:154693": {
+      "key": "Jobicy:154693",
+      "title": "Contract Staff Software Engineer - Performance Graphics (C++,Rust, WebGL)",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl",
+      "location": "Canada",
+      "published": "2026-11-06T03:20:25+00:00",
+      "source": "Jobicy",
+      "match": "Rust-related",
+      "description": "The role You will take on the ongoing maintenance and engineering work in Firefox’s Graphics area (rendering, compositing, images, canvas, WebGL). You help keep the graphics code healthy. Responsibilities Own day-to-day Graphics maintenance: bug fixes, regressions, test upkeep, incoming issues. Diagnose and fix graphics problems across platforms (Windows, macOS, Linux, Android). Carry code review and…",
+      "first_found": "2026-11-06T09:37:04+00:00"
+    },
+    "Crypto Jobs List:https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken": {
+      "key": "Crypto Jobs List:https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken",
+      "title": "Staff Security Architect",
+      "company": "Kraken",
+      "url": "https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken",
+      "location": "Remote",
+      "published": "",
+      "source": "Crypto Jobs List",
+      "match": "Rust-related",
+      "description": "Tags: Web3 Jobs • Cryptocurrency Security Jobs • Cryptocurrency Engineering Jobs • Blockchain Remote Jobs • Blockchain Senior Jobs • Cryptocurrency Cryptography Jobs Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. Before you apply, we encourage you to explore our culture page to understand what drives us and how we work. The team Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients. We are seeking a skilled & hands-on Senior Security Architect for Kraken Security Labs. Kraken Security Labs provides boutique-style, deeply technical internal security consulting on current and future products. We don't merely provide high-level guidance but indeed get deeply embedded in the different engineering teams and do not mind hands-on work. Our projects span from classical infrastructure security projects, over cryptography, web3, and complex Rust projects, to securing our next generation of AI products. You will work in a small, highly technical team and collaborate with teams all across the company & world. The opportunity Design, review & verify robust security architecture in a heterogeneous environment Conduct thorough security assessments and audits of existing architectures, recommending practical improvements Stay updated with latest (blockchain) security trends, threats and mitigation techniques Provide expertise to our blockchain teams, ensuring secure operational practices What You Bring Proven experience as an IT security expert, with a strong background in application security Experience in security testing diverse application Experience with infrastructure security Basic familiarity with security frameworks (OWASP, NIST, etc) Excellent problem-solving skills and the ability to work in a dynamic, fast-paced environment Strong communication and collaboration skills to effectively remotely work with stakeholders across the organization Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis. Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution. We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Our commitment Payward is powered by people from around the world and we celebrate the divers",
+      "first_found": "2026-11-06T09:37:04+00:00"
+    },
+    "Crypto Jobs List:https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group": {
+      "key": "Crypto Jobs List:https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group",
+      "title": "Quant Strategy & AI Agent Intern",
+      "company": "Amber Group",
+      "url": "https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group",
+      "location": "Remote",
+      "published": "",
+      "source": "Crypto Jobs List",
+      "match": "Internship / early-career software",
+      "description": "Tags: Web3 Jobs • Cryptocurrency Quant Jobs • Blockchain Ai Jobs • Cryptocurrency Research Jobs • Blockchain Full Time Jobs • Web3 Web3 Jobs Amber Group is a global leading digital asset company providing crypto financial services to both institutional and high-net-worth investors globally.We offer best-in-class liquidity solutions and cutting-edge trading infrastructure across major exchanges, applications, and networks. With over $1 trillion in cumulative trading volume, our deep liquidity helps power the digital asset ecosystem.Beyond trading, our full-suite of offerings includes wealth management, lending and investing products. But at our core, we focus on building strong relationships and delivering personalized service to help clients navigate this fast-growing industry.At Amber, security is our #1 priority. We have invested years of effort and millions of dollars in cybersecurity, crypto-security, and operational security across the firm, with industry-leading certifications like SOC 2 Type II and ISO 27001.Powered by a 400+ team of traders, technologists and engineers operating 24/7 globally, our technology and research capabilities are world-class. Yet we remain entrepreneurial, always seeking fresh ideas and risks worth taking. We are always interested in people who have an appetite for taking calculated risk, demonstrate a high level of original thinking and intellectual curiosity.Key ResponsibilitiesIdea-to-Strategy Engine (NL-to-Quant): Design agent workflows that translate natural-language market views into actionable quant trading strategies (entry/exit signals, factor screens, position sizing).Backtesting & Strategy Diagnostics: Integrate agents with backtesting engines) to run simulations, interpret key metrics (Sharpe, Sortino, max drawdown, turnover), and flag flaws like overfitting or lookahead bias.Agent Quant Tooling: Build tool-calling interfaces connecting LLMs to market data APIs, risk factor models, and paper-trading environments.Strategy Guardrails & Risk: Implement deterministic pre-trade risk checks (stop-loss, volatility limits, exposure caps) ensuring live execution remains safe, explainable, and compliant with user authorization.Financial & Strategy Evals: Build rigorous evaluation harnesses to benchmark agent-generated strategies for code correctness, financial logic, and backtesting validity.Reference Strategy Library: Build, backtest, and maintain a core catalog of benchmark trading strategies to serve as modular templates and demonstrate agent workflows.RequirementsPursuing degree in Quantitative Finance, Financial Engineering (MFE), Computer Science, Applied Math, Statistics, or related STEM fields.Solid grasp of systematic trading concepts: alpha signals, momentum, mean-reversion, factor models, slippage, and transaction costs.Proficient in Python quant libraries: pandas, numpy, and backtesting frameworksPrior projects, research, or internships building with LLMs (tool/function calling, structured outputs, R",
+      "first_found": "2026-11-06T09:37:04+00:00"
     }
   },
-  "last_checked": "2026-11-05T20:10:54+00:00"
+  "last_checked": "2026-11-06T09:37:04+00:00"
 }
