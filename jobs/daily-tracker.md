@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-06T19:37:16+00:00
+Last checked: 2026-11-07T09:01:28+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -53,6 +53,8 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Staff Software Engineer, C++/Rust](<https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1>) | stellar development foundation | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T18:25:28+00:00 | [Staff Site Reliability Engineer - Dev Platform](<https://cryptojobslist.com/jobs/staff-site-reliability-engineer-dev-brazil-peru-colombia-argentina-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-06T09:37:04+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-07T09:01:28+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-united-states-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-07T09:01:28+00:00 | [Software Engineer - Rust - Payward Services](<https://cryptojobslist.com/jobs/software-engineer-rust-payward-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Solidity, EVM)](<https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Rust, Solana)](<https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Smart Contract Engineer](<https://cryptojobslist.com/jobs/smart-contract-engineer-new-york-united-states-at-paxos-labs>) | Paxos Labs | Remote | Rust-related | Crypto Jobs List |
