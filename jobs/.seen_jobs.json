@@ -903,7 +903,19 @@
       "match": "Rust-related",
       "description": "Tags: Web3 Jobs • Web3 Developer Jobs • Web3 Rust Jobs • Cryptocurrency Backend Jobs • Cryptocurrency Engineering Jobs • Blockchain Remote Jobs • Blockchain Web3 Jobs Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. Before you apply, we encourage you to explore our culture page to understand what drives us and how we work. The team Payward Services is an enterprise infrastructure platform that enables companies to seamlessly integrate trading, payments, funding, and digital asset services through a single unified system. It provides coordinated liquidity, custody, compliance, risk management, and settlement capabilities, reducing operational complexity for fintechs, banks, brokerages, and payment providers. As a Software Engineer in Payward Services you'll build and scale the systems that make this platform work under the hood, from real-time coordination across services to the infrastructure enterprise partners depend on to move money and assets safely, at scale, every day. We’re looking for builders who thrive in ambiguity, move quickly with ownership, and care deeply about creating robust solutions. The opportunity Design and implement robust Rust services and libraries that power trading, payments, and crypto experiences with a focus on reliability, performance, and user impact. Write reusable, testable, and highly efficient code that scales across teams and supports revenue-critical systems without compromising safety or security. Collaborate on large-scale distributed systems architecture, translating evolving product requirements into resilient, low-latency solutions. Work alongside hundreds of experienced Rust engineers, contributing to a high-performance, product-driven engineering culture. What you bring 3+ years of software engineering experience Proficient in writing network services or asynchronous code in Rust Have a security-first mindset during system design to ensure robustness Demonstrate the ability to autonomously debug issues across the stack (OS, network, application) Apply a solid understanding of distributed systems and technologies, including RPC protocols, Kafka, and Event-Driven Systems, to design scalable solutions Collaborate effectively with product teams to gather requirements and constraints for designing appropriate systems Take complete end-to-end ownership of systems and libraries Nice to haves Experience building B2B focused products, ideally in the fintech or crypto space Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis. Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance ",
       "first_found": "2026-11-07T09:01:28+00:00"
+    },
+    "Jobicy:159530": {
+      "key": "Jobicy:159530",
+      "title": "Junior Data Specialist",
+      "company": "Luxury Presence",
+      "url": "https://jobicy.com/jobs/159530-junior-data-specialist",
+      "location": "Philippines",
+      "published": "2026-11-07T11:13:22+00:00",
+      "source": "Jobicy",
+      "match": "Internship / early-career software",
+      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use…",
+      "first_found": "2026-11-07T17:48:53+00:00"
     }
   },
-  "last_checked": "2026-11-07T09:01:28+00:00"
+  "last_checked": "2026-11-07T17:48:53+00:00"
 }
