@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-08T17:59:53+00:00
+Last checked: 2026-11-09T10:01:55+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -67,6 +67,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Senior Full Stack Engineer, Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken>) | kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T08:49:15+00:00 | [Senior Backend Software Engineer](<https://cryptojobslist.com/jobs/senior-backend-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-09T10:01:55+00:00 | [Security Engineer](<https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-02T21:51:04+00:00 | [Rust Engineer](<https://cryptojobslist.com/jobs/rust-engineer-remote-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Quantitative Developer Intern(Options Market Making)](<https://cryptojobslist.com/jobs/quantitative-developer-intern-options-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-06T09:37:04+00:00 | [Quant Strategy & AI Agent Intern](<https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |

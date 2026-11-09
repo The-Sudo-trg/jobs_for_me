@@ -915,7 +915,19 @@
       "match": "Internship / early-career software",
       "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use…",
       "first_found": "2026-11-07T17:48:53+00:00"
+    },
+    "Crypto Jobs List:https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo": {
+      "key": "Crypto Jobs List:https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo",
+      "title": "Security Engineer",
+      "company": "Tempo",
+      "url": "https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo",
+      "location": "Remote",
+      "published": "",
+      "source": "Crypto Jobs List",
+      "match": "Rust-related",
+      "description": "Tags: Web3 Jobs • Web3 Security Jobs • Cryptocurrency Rust Jobs • Blockchain Smart Contract Jobs • Web3 Engineering Jobs • Blockchain Full Time Jobs • Blockchain Remote Jobs • Cryptocurrency Web3 Jobs • Blockchain Stablecoin Jobs Tempo is a layer-1 blockchain purpose-built for stablecoins and real-world payments, born from Stripe’s experience in global payments and Paradigm’s expertise in crypto tech. Tempo’s payment-first design provides a scalable, low-cost predictable backbone that meets the needs of high-volume payment use cases. Our goal is to move money reliably, cheaply, and at scale. Our north star is simplicity for users: fintechs, traditional banks, merchants, platforms, and anyone else looking to move their payments into the 21st century. We're building Tempo with design partners who are global leaders in AI, e-commerce, and financial services: Anthropic, Coupang, Deutsche Bank, DoorDash, Mercury, Nubank, OpenAI, Revolut, Shopify, Standard Chartered, Visa, and more. We’re a team of crypto-optimists, building the infrastructure needed to bring real, substantial economic flows onchain. We like to move fast and swing for the fences — join us! The Role We are building a full-time internal Red Team to continuously stress-test our own infrastructure. As a security engineer, you won't just be ticking compliance boxes; you will be writing Rust fuzzers, simulating economic attacks on our testnet, and dissecting the EVM to find edge cases in our execution client. We are looking for a builder who understands that the best way to secure a protocol is to try to break it continuously. If you have a history of topping CTF leaderboards, submitting high-severity bug bounties, or building your own security tooling because the standard ones weren't good enough—this role is for you. Responsibilities Proactively hunt for vulnerabilities in the Tempo protocol, consensus engine, and bridge architecture, treating our mainnet like a continuous CTF challenge. Design and implement security tooling and automation in liaison with the Foundry team to catch logic errors and edge cases. Partner with engineering teams to review critical architecture across our codebase. Analyze incentives and game-theoretic risks within the protocol, such as MEV and staking dynamics, to prevent economic exploits. Qualifications Fluency in reading and writing production-level code in systems languages, with a strong preference for Rust. Deep expertise in EVM internals, including intimate knowledge of opcodes, storage slots, gas metering, and precompiles. Proven track record of offensive security, such as high rankings in CTFs (e.g., Paradigm CTF), high-severity bug bounty submissions, or published research. Experience building custom security automation or tooling rather than relying solely on off-the-shelf scanners. Bleeding-edge knowledge of the latest blockchain security research, including recent hacks and how these could have been mitigated. Attributes High motor Razor-sharp think",
+      "first_found": "2026-11-09T10:01:55+00:00"
     }
   },
-  "last_checked": "2026-11-08T17:59:53+00:00"
+  "last_checked": "2026-11-09T10:01:55+00:00"
 }
