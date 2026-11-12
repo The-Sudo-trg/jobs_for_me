@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-11T19:46:44+00:00
+Last checked: 2026-11-12T10:01:57+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -10,6 +10,7 @@ Listings are linked to their original source; remote and eligibility restriction
 |---|---|---|---|---|---|
 | 2026-11-11T19:46:44+00:00 | [Junior System Engineer](<https://www.arbeitnow.nl/jobs/companies/the-trainee-company/remote-junior-system-engineer-apeldoorn-481393>) | The Trainee Company | Werken op afstand | Internship / early-career software | Arbeitnow |
 | 2026-11-11T19:46:44+00:00 | [Senior Magento Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer>) | Lemon.io | Remote | Rust-related | We Work Remotely |
+| 2026-11-12T10:01:57+00:00 | [Senior React Full-stack Developer](<https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136>) | Lemon.io | LATAM, Europe, USA, Canada, APAC | Rust-related | Remotive |
 | 2026-11-09T22:36:57+00:00 | [Rust Software Engineer - Rust / C++ (m/f/d)](<https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-rust-software-engineer-rust-c-gilching-217668>) | Quantum-Systems GmbH | Remote job | Rust-related | Arbeitnow |
 | 2026-11-07T17:48:53+00:00 | [Junior Data Specialist](<https://jobicy.com/jobs/159530-junior-data-specialist>) | Luxury Presence | Philippines | Internship / early-career software | Jobicy |
 | 2026-11-06T09:37:04+00:00 | [Contract Staff Software Engineer - Performance Graphics (C++,Rust, WebGL)](<https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl>) | Mozilla | Canada | Rust-related | Jobicy |
