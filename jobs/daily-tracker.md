@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-13T09:49:58+00:00
+Last checked: 2026-11-13T19:55:43+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -11,6 +11,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-13T09:49:58+00:00 | [Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain](<https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2>) | Docplanner | Spain | Internship / early-career software | Jobicy |
 | 2026-11-12T20:14:45+00:00 | [Junior Ubuntu Software Engineer](<https://jobicy.com/jobs/161675-junior-ubuntu-software-engineer>) | Canonical | EMEA, LATAM, Canada, USA | Internship / early-career software | Jobicy |
 | 2026-11-12T20:14:45+00:00 | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](<https://jobicy.com/jobs/161672-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-2>) | Canonical | EMEA, LATAM, Canada, USA | Internship / early-career software | Jobicy |
+| 2026-11-13T19:55:43+00:00 | [Senior Data Engineer](<https://remotive.com/remote-jobs/data/senior-data-engineer-2091137>) | Lemon.io | LATAM, Europe, USA, Canada, APAC | Rust-related | Remotive |
 | 2026-11-11T19:46:44+00:00 | [Junior System Engineer](<https://www.arbeitnow.nl/jobs/companies/the-trainee-company/remote-junior-system-engineer-apeldoorn-481393>) | The Trainee Company | Werken op afstand | Internship / early-career software | Arbeitnow |
 | 2026-11-11T19:46:44+00:00 | [Senior Magento Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer>) | Lemon.io | Remote | Rust-related | We Work Remotely |
 | 2026-11-12T10:01:57+00:00 | [Senior React Full-stack Developer](<https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136>) | Lemon.io | LATAM, Europe, USA, Canada, APAC | Rust-related | Remotive |
