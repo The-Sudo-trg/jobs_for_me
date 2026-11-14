@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-14T09:13:02+00:00
+Last checked: 2026-11-14T18:22:47+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-14T18:22:47+00:00 | [Technical Agent Developer Intern \| Open Position](<https://himalayas.app/companies/vozy/jobs/technical-agent-developer-intern-open-position-6208452000?utm_source=api>) | Vozy | Colombia | Internship / early-career software | Himalayas |
 | 2026-11-14T09:13:02+00:00 | [Compliance Engineer Intern](<https://jobicy.com/jobs/153136-compliance-engineer-intern>) | CertiK | APAC, Europe | Internship / early-career software | Jobicy |
 | 2026-11-13T09:49:58+00:00 | [Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain](<https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2>) | Docplanner | Spain | Internship / early-career software | Jobicy |
 | 2026-11-12T20:14:45+00:00 | [Junior Ubuntu Software Engineer](<https://jobicy.com/jobs/161675-junior-ubuntu-software-engineer>) | Canonical | EMEA, LATAM, Canada, USA | Internship / early-career software | Jobicy |
