@@ -1143,7 +1143,19 @@
       "match": "Rust-related",
       "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’re looking for Senior Data Engineers with: 4+ years of commercial experience as a Data Engineer Experience with Apache Airflow and Snowflake, or Python and SQL, is required Experience with AWS, GCP, or Microsoft Azure is mandatory You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production. You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents). Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls. You work full-time remotely and deliver without supervision. You onboard quickly and start shipping in your first weeks. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React ",
       "first_found": "2026-11-13T19:55:43+00:00"
+    },
+    "Jobicy:153136": {
+      "key": "Jobicy:153136",
+      "title": "Compliance Engineer Intern",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
+      "location": "APAC, Europe",
+      "published": "2026-11-14T02:50:33+00:00",
+      "source": "Jobicy",
+      "match": "Internship / early-career software",
+      "description": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart…",
+      "first_found": "2026-11-14T09:13:02+00:00"
     }
   },
-  "last_checked": "2026-11-13T19:55:43+00:00"
+  "last_checked": "2026-11-14T09:13:02+00:00"
 }
