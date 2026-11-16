@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-15T19:01:13+00:00
+Last checked: 2026-11-16T09:59:37+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -68,6 +68,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-12T20:14:45+00:00 | [Solutions Architect](<https://cryptojobslist.com/jobs/solutions-architect-zurich-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T19:53:55+00:00 | [Software Engineering INTERN](<https://cryptojobslist.com/jobs/software-engineering-intern-finland-satakunta-tampere-at-microsoft>) | Microsoft | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-12T20:14:45+00:00 | [Software Engineer, Enterprise Custody](<https://cryptojobslist.com/jobs/software-engineer-enterprise-custody-united-states-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-16T09:59:37+00:00 | [Software Engineer, Blockchain & Distributed Systems](<https://cryptojobslist.com/jobs/software-engineer-blockchain-systems-lugano-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T10:12:23+00:00 | [Software Engineer II - React Native - Krak](<https://cryptojobslist.com/jobs/software-engineer-ii-react-native-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-07T09:01:28+00:00 | [Software Engineer - Rust - Payward Services](<https://cryptojobslist.com/jobs/software-engineer-rust-payward-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-11T09:41:38+00:00 | [Software Engineer - Database - Bitnomial](<https://cryptojobslist.com/jobs/software-engineer-database-bitnomial-united-states-brazil-united-arab-peru-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
@@ -86,22 +87,26 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-28T08:49:15+00:00 | [Senior Backend Software Engineer](<https://cryptojobslist.com/jobs/senior-backend-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-09T10:01:55+00:00 | [Security Engineer](<https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-16T09:59:37+00:00 | [Security Architect](<https://cryptojobslist.com/jobs/security-architect-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-12T20:14:45+00:00 | [Rust-Simplicity Maintainer](<https://cryptojobslist.com/jobs/rust-simplicity-maintainer-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-02T21:51:04+00:00 | [Rust Engineer](<https://cryptojobslist.com/jobs/rust-engineer-remote-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Quantitative Developer Intern(Options Market Making)](<https://cryptojobslist.com/jobs/quantitative-developer-intern-options-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-06T09:37:04+00:00 | [Quant Strategy & AI Agent Intern](<https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-10-27T18:08:43+00:00 | [Off-Cycle Fall 2026 Cybersecurity Internship](<https://cryptojobslist.com/jobs/off-cycle-fall-2026-cybersecurity-remote-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T10:12:23+00:00 | [Machine Learning Engineer Intern](<https://cryptojobslist.com/jobs/machine-learning-engineer-intern-hybrid-san-francisco-ca-at-coinbase>) | Coinbase | Remote | Internship / early-career software | Crypto Jobs List |
+| 2026-11-16T09:59:37+00:00 | [Junior Solutions Architect](<https://cryptojobslist.com/jobs/junior-solutions-architect-lugano-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Information Security Engineer, Product](<https://cryptojobslist.com/jobs/information-security-engineer-product-remote-global-us-eu-at-aptos>) | aptos | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T07:48:31+00:00 | [Graduate DeFi Algorithmic Trader](<https://cryptojobslist.com/jobs/graduate-defi-algorithmic-trader-singapore-at-wintermute>) | Wintermute | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-02T09:46:08+00:00 | [Fullstack Engineer - Payward Services - Custody](<https://cryptojobslist.com/jobs/fullstack-engineer-payward-services-romania-brazil-peru-sweden-colombia-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-06T19:37:16+00:00 | [Full Stack Engineer - Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/full-stack-engineer-growth-krak-brazil-uruguay-peru-colombia-mexico-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Forward Deployed Engineer](<https://cryptojobslist.com/jobs/forward-deployed-engineer-geneva-zurich-at-blockstream>) | blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-02T21:51:04+00:00 | [Engineering Manager - Frontend - Consumer](<https://cryptojobslist.com/jobs/engineering-manager-frontend-poland-uruguay-sweden-latvia-cyprus-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-16T09:59:37+00:00 | [DeFi Algorithmic Trader](<https://cryptojobslist.com/jobs/defi-algorithmic-trader-london-new-york-singapore-at-wintermute>) | Wintermute | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-26T18:46:33+00:00 | [Compliance Engineer Intern](<https://cryptojobslist.com/jobs/compliance-engineer-intern-europe-asia-at-certik>) | CertiK | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Blockchain Security Expert - Security Audit Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-security-us-remote-at-certik>) | CertiK | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Blockchain Security Expert - Anti Defect Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-anti-defect-us-remote-at-certik>) | certik | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Blockchain Security Engineer - (Solidity / Rust / Golang)](<https://cryptojobslist.com/jobs/blockchain-security-engineer-solidity-us-remote-at-certik>) | CertiK | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-16T09:59:37+00:00 | [Backend Software Engineer](<https://cryptojobslist.com/jobs/backend-software-engineer-bucharest-romania-at-alchemy>) | Alchemy | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-27T18:08:43+00:00 | [Backend Engineer (Contract - LATAM)](<https://cryptojobslist.com/jobs/backend-engineer-contract-latam-remote-at-nexus>) | Nexus | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-29T18:35:22+00:00 | [Associate, Blockchain Security Engineer](<https://cryptojobslist.com/jobs/associate-blockchain-security-engineer-india-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
