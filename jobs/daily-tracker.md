@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-16T22:24:54+00:00
+Last checked: 2026-11-17T10:56:26+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -75,15 +75,19 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Solidity, EVM)](<https://cryptojobslist.com/jobs/smart-contract-engineer-solidity-evm-remote-at-saifuro-1>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Smart Contract Engineer (Rust, Solana)](<https://cryptojobslist.com/jobs/smart-contract-engineer-rust-solana-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Smart Contract Engineer](<https://cryptojobslist.com/jobs/smart-contract-engineer-new-york-united-states-at-paxos-labs>) | Paxos Labs | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-17T10:56:26+00:00 | [Smart Contract Auditor — Rust](<https://cryptojobslist.com/jobs/smart-contract-auditor-rust-remote-at-sigintzero>) | SigIntZero | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-17T10:56:26+00:00 | [Site Reliability Engineer](<https://cryptojobslist.com/jobs/site-reliability-engineer-at-anagram>) | Anagram | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-01T09:29:22+00:00 | [Senior Software Engineer, Platform Infrastructure](<https://cryptojobslist.com/jobs/senior-software-engineer-platform-palo-alto-california-at-aptos>) | Aptos | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-13T09:49:58+00:00 | [Senior Software Engineer, Payments](<https://cryptojobslist.com/jobs/senior-software-engineer-payments-united-states-at-dakota>) | Dakota | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T10:12:23+00:00 | [Senior Software Engineer, C++](<https://cryptojobslist.com/jobs/senior-software-engineer-c-at-stellar-development-foundation>) | Stellar Development Foundation | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-06T19:37:16+00:00 | [Senior Software Engineer - Rust - Backend - Pro](<https://cryptojobslist.com/jobs/senior-software-engineer-rust-pro-romania-brazil-peru-sweden-colombia-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-25T07:43:37+00:00 | [Senior Software Engineer - Full-stack - Growth Product](<https://cryptojobslist.com/jobs/senior-software-engineer-full-stack-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-17T10:56:26+00:00 | [Senior Smart Contract Engineer — Ihsan Gold Token](<https://cryptojobslist.com/jobs/founding-payments-engineer-backend-remote-at-ihsan-pay-1>) | Ihsan Pay | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T08:49:15+00:00 | [Senior Smart Contract Engineer](<https://cryptojobslist.com/jobs/senior-smart-contract-engineer-united-states-at-coinlist>) | CoinList | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-11T19:46:44+00:00 | [Senior Security Researcher](<https://cryptojobslist.com/jobs/senior-security-researcher-tel-aviv-israel-at-chainalysis>) | Chainalysis | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T17:20:44+00:00 | [Senior Full-Stack Software Engineer](<https://cryptojobslist.com/jobs/senior-full-stack-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Senior Full Stack Engineer, Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken>) | kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-17T10:56:26+00:00 | [Senior Build/Release/CI Engineer](<https://cryptojobslist.com/jobs/senior-build-release-ci-engineer-remote-in-americas-at-brave>) | Brave | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T08:49:15+00:00 | [Senior Backend Software Engineer](<https://cryptojobslist.com/jobs/senior-backend-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-09T10:01:55+00:00 | [Security Engineer](<https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
@@ -110,4 +114,5 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-27T18:08:43+00:00 | [Backend Engineer (Contract - LATAM)](<https://cryptojobslist.com/jobs/backend-engineer-contract-latam-remote-at-nexus>) | Nexus | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-29T18:35:22+00:00 | [Associate, Blockchain Security Engineer](<https://cryptojobslist.com/jobs/associate-blockchain-security-engineer-india-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-17T10:56:26+00:00 | [2027 Environmental Health & Safety Engineer Intern-Afton Texas](<https://cryptojobslist.com/jobs/2027-environmental-health-safety-texas-afton-texas-at-galaxy>) | Galaxy | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-06T19:37:16+00:00 | [2027 Digital Infrastructure Intern - NYC](<https://cryptojobslist.com/jobs/2027-digital-infrastructure-intern-nyc-new-york-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
