@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-17T21:10:52+00:00
+Last checked: 2026-11-18T10:28:05+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -68,6 +68,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-12T20:14:45+00:00 | [Solutions Architect](<https://cryptojobslist.com/jobs/solutions-architect-zurich-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T19:53:55+00:00 | [Software Engineering INTERN](<https://cryptojobslist.com/jobs/software-engineering-intern-finland-satakunta-tampere-at-microsoft>) | Microsoft | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-12T20:14:45+00:00 | [Software Engineer, Enterprise Custody](<https://cryptojobslist.com/jobs/software-engineer-enterprise-custody-united-states-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-18T10:28:05+00:00 | [Software Engineer, Data Feeds](<https://cryptojobslist.com/jobs/software-engineer-data-feeds-brazil-brazil-argentina-colombia-at-chainlink-labs>) | Chainlink Labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-16T09:59:37+00:00 | [Software Engineer, Blockchain & Distributed Systems](<https://cryptojobslist.com/jobs/software-engineer-blockchain-systems-lugano-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T10:12:23+00:00 | [Software Engineer II - React Native - Krak](<https://cryptojobslist.com/jobs/software-engineer-ii-react-native-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-07T09:01:28+00:00 | [Software Engineer - Rust - Payward Services](<https://cryptojobslist.com/jobs/software-engineer-rust-payward-brazil-peru-sweden-colombia-romania-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
@@ -87,6 +88,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-11T19:46:44+00:00 | [Senior Security Researcher](<https://cryptojobslist.com/jobs/senior-security-researcher-tel-aviv-israel-at-chainalysis>) | Chainalysis | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-23T17:20:44+00:00 | [Senior Full-Stack Software Engineer](<https://cryptojobslist.com/jobs/senior-full-stack-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Senior Full Stack Engineer, Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/senior-full-stack-engineer-growth-brazil-uruguay-peru-colombia-mexico-at-kraken>) | kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-18T10:28:05+00:00 | [Senior Database Administrator - Core Infrastructure](<https://cryptojobslist.com/jobs/senior-database-administrator-core-european-union-united-arab-emirates-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-17T10:56:26+00:00 | [Senior Build/Release/CI Engineer](<https://cryptojobslist.com/jobs/senior-build-release-ci-engineer-remote-in-americas-at-brave>) | Brave | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T08:49:15+00:00 | [Senior Backend Software Engineer](<https://cryptojobslist.com/jobs/senior-backend-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
