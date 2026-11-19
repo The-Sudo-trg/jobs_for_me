@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-18T20:46:55+00:00
+Last checked: 2026-11-19T10:35:15+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-19T10:35:15+00:00 | [Lead Rust Software Engineer](<https://himalayas.app/companies/machinify/jobs/lead-rust-software-engineer?utm_source=api>) | Machinify | United States | Rust-related | Himalayas |
 | 2026-11-14T18:22:47+00:00 | [Technical Agent Developer Intern \| Open Position](<https://himalayas.app/companies/vozy/jobs/technical-agent-developer-intern-open-position-6208452000?utm_source=api>) | Vozy | Colombia | Internship / early-career software | Himalayas |
 | 2026-11-14T09:13:02+00:00 | [Compliance Engineer Intern](<https://jobicy.com/jobs/153136-compliance-engineer-intern>) | CertiK | APAC, Europe | Internship / early-career software | Jobicy |
 | 2026-11-13T09:49:58+00:00 | [Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain](<https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2>) | Docplanner | Spain | Internship / early-career software | Jobicy |
@@ -62,6 +63,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-22T12:40:07+00:00 | [Senior back-end Engineer](<https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132>) | Lemon.io | Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway | Rust-related | Remotive |
 | 2026-10-22T12:40:07+00:00 | [Senior Software Engineer, Card Authorization](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization>) | Lithic | Remote | Rust-related | We Work Remotely |
 | 2026-10-22T12:41:13+00:00 | [Staff Software Engineer, C++/Rust](<https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation-1>) | stellar development foundation | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-19T10:35:15+00:00 | [Staff Software Engineer, C++/Rust](<https://cryptojobslist.com/jobs/staff-software-engineer-c-rust-remote-at-stellar-development-foundation>) | Stellar Development Foundation | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T18:25:28+00:00 | [Staff Site Reliability Engineer - Dev Platform](<https://cryptojobslist.com/jobs/staff-site-reliability-engineer-dev-brazil-peru-colombia-argentina-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-06T09:37:04+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-07T09:01:28+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-united-states-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
@@ -112,6 +114,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-03T09:49:02+00:00 | [Blockchain Security Expert - Security Audit Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-security-us-remote-at-certik>) | CertiK | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Blockchain Security Expert - Anti Defect Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-anti-defect-us-remote-at-certik>) | certik | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Blockchain Security Engineer - (Solidity / Rust / Golang)](<https://cryptojobslist.com/jobs/blockchain-security-engineer-solidity-us-remote-at-certik>) | CertiK | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-19T10:35:15+00:00 | [Blockchain Engineer 区块链工程师](<https://cryptojobslist.com/jobs/blockchain-engineer-windranger-labs-remote>) | Windranger Labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-16T09:59:37+00:00 | [Backend Software Engineer](<https://cryptojobslist.com/jobs/backend-software-engineer-bucharest-romania-at-alchemy>) | Alchemy | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-27T18:08:43+00:00 | [Backend Engineer (Contract - LATAM)](<https://cryptojobslist.com/jobs/backend-engineer-contract-latam-remote-at-nexus>) | Nexus | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
