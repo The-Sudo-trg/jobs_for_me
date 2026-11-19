@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-19T10:35:15+00:00
+Last checked: 2026-11-19T20:52:32+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,8 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-19T20:52:32+00:00 | [Senior Software Engineer, Issuing](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-issuing>) | Lithic | Remote | Rust-related | We Work Remotely |
+| 2026-11-19T20:52:32+00:00 | [Senior React Full-stack Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8>) | Lemon.io | Remote | Rust-related | We Work Remotely |
 | 2026-11-19T10:35:15+00:00 | [Lead Rust Software Engineer](<https://himalayas.app/companies/machinify/jobs/lead-rust-software-engineer?utm_source=api>) | Machinify | United States | Rust-related | Himalayas |
 | 2026-11-14T18:22:47+00:00 | [Technical Agent Developer Intern \| Open Position](<https://himalayas.app/companies/vozy/jobs/technical-agent-developer-intern-open-position-6208452000?utm_source=api>) | Vozy | Colombia | Internship / early-career software | Himalayas |
 | 2026-11-14T09:13:02+00:00 | [Compliance Engineer Intern](<https://jobicy.com/jobs/153136-compliance-engineer-intern>) | CertiK | APAC, Europe | Internship / early-career software | Jobicy |
