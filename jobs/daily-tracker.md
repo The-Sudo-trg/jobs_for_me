@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-20T20:37:46+00:00
+Last checked: 2026-11-21T10:01:24+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-21T10:01:24+00:00 | [Member of Technical Staff (Storage)](<https://weworkremotely.com/remote-jobs/cockroach-labs-member-of-technical-staff-storage>) | Cockroach Labs | Remote | Rust-related | We Work Remotely |
 | 2026-11-20T10:16:08+00:00 | [Senior Fullstack Engineer, Customer Context](<https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context>) | Postscript | Remote | Rust-related | We Work Remotely |
 | 2026-11-19T20:52:32+00:00 | [Senior Software Engineer, Issuing](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-issuing>) | Lithic | Remote | Rust-related | We Work Remotely |
 | 2026-11-19T20:52:32+00:00 | [Senior React Full-stack Developer](<https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8>) | Lemon.io | Remote | Rust-related | We Work Remotely |
@@ -112,6 +113,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-06T19:37:16+00:00 | [Full Stack Engineer - Growth & Experimentation – Krak](<https://cryptojobslist.com/jobs/full-stack-engineer-growth-krak-brazil-uruguay-peru-colombia-mexico-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Forward Deployed Engineer](<https://cryptojobslist.com/jobs/forward-deployed-engineer-geneva-zurich-at-blockstream>) | blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-02T21:51:04+00:00 | [Engineering Manager - Frontend - Consumer](<https://cryptojobslist.com/jobs/engineering-manager-frontend-poland-uruguay-sweden-latvia-cyprus-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-21T10:01:24+00:00 | [Distributed Systems Engineer](<https://cryptojobslist.com/jobs/distributed-systems-engineer-ritual-remote>) | Ritual | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-16T09:59:37+00:00 | [DeFi Algorithmic Trader](<https://cryptojobslist.com/jobs/defi-algorithmic-trader-london-new-york-singapore-at-wintermute>) | Wintermute | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-26T18:46:33+00:00 | [Compliance Engineer Intern](<https://cryptojobslist.com/jobs/compliance-engineer-intern-europe-asia-at-certik>) | CertiK | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Blockchain Security Expert - Security Audit Track](<https://cryptojobslist.com/jobs/blockchain-security-expert-security-us-remote-at-certik>) | CertiK | Remote | Rust-related | Crypto Jobs List |
