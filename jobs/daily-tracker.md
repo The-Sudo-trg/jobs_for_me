@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-21T10:01:24+00:00
+Last checked: 2026-11-21T19:36:54+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -104,6 +104,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-02T21:51:04+00:00 | [Rust Engineer](<https://cryptojobslist.com/jobs/rust-engineer-remote-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-03T09:49:02+00:00 | [Quantitative Developer Intern(Options Market Making)](<https://cryptojobslist.com/jobs/quantitative-developer-intern-options-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-06T09:37:04+00:00 | [Quant Strategy & AI Agent Intern](<https://cryptojobslist.com/jobs/quant-strategy-ai-agent-intern-hong-kong-hong-kong-sar-at-amber-group>) | Amber Group | Remote | Internship / early-career software | Crypto Jobs List |
+| 2026-11-21T19:36:54+00:00 | [Product Owner](<https://cryptojobslist.com/jobs/product-owner-zurich-geneva-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-27T18:08:43+00:00 | [Off-Cycle Fall 2026 Cybersecurity Internship](<https://cryptojobslist.com/jobs/off-cycle-fall-2026-cybersecurity-remote-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T10:12:23+00:00 | [Machine Learning Engineer Intern](<https://cryptojobslist.com/jobs/machine-learning-engineer-intern-hybrid-san-francisco-ca-at-coinbase>) | Coinbase | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-16T09:59:37+00:00 | [Junior Solutions Architect](<https://cryptojobslist.com/jobs/junior-solutions-architect-lugano-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
