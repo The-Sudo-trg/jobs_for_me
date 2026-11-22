@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-22T10:02:49+00:00
+Last checked: 2026-11-22T19:54:02+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,8 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-22T19:54:02+00:00 | [Staff Software Engineer, Safety Processing](<https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-safety-processing>) | Discord | Remote | Rust-related | We Work Remotely |
+| 2026-11-22T19:54:02+00:00 | [Data Processing Specialist-Entry Level](<https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level>) | DLN Consulting Group | Remote | Internship / early-career software | We Work Remotely |
 | 2026-11-21T10:01:24+00:00 | [Member of Technical Staff (Storage)](<https://weworkremotely.com/remote-jobs/cockroach-labs-member-of-technical-staff-storage>) | Cockroach Labs | Remote | Rust-related | We Work Remotely |
 | 2026-11-20T10:16:08+00:00 | [Senior Fullstack Engineer, Customer Context](<https://weworkremotely.com/remote-jobs/postscript-senior-fullstack-engineer-customer-context>) | Postscript | Remote | Rust-related | We Work Remotely |
 | 2026-11-19T20:52:32+00:00 | [Senior Software Engineer, Issuing](<https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-issuing>) | Lithic | Remote | Rust-related | We Work Remotely |
