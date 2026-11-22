@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-21T19:36:54+00:00
+Last checked: 2026-11-22T10:02:49+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -84,6 +84,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-03T09:49:02+00:00 | [Smart Contract Engineer](<https://cryptojobslist.com/jobs/smart-contract-engineer-new-york-united-states-at-paxos-labs>) | Paxos Labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-17T10:56:26+00:00 | [Smart Contract Auditor — Rust](<https://cryptojobslist.com/jobs/smart-contract-auditor-rust-remote-at-sigintzero>) | SigIntZero | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-17T10:56:26+00:00 | [Site Reliability Engineer](<https://cryptojobslist.com/jobs/site-reliability-engineer-at-anagram>) | Anagram | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-22T10:02:49+00:00 | [Senior Solutions Architect, Tokenisation](<https://cryptojobslist.com/jobs/senior-solutions-architect-tokenisation-united-states-united-kingdom-brazil-at-chainlink-labs>) | Chainlink Labs | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-01T09:29:22+00:00 | [Senior Software Engineer, Platform Infrastructure](<https://cryptojobslist.com/jobs/senior-software-engineer-platform-palo-alto-california-at-aptos>) | Aptos | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-13T09:49:58+00:00 | [Senior Software Engineer, Payments](<https://cryptojobslist.com/jobs/senior-software-engineer-payments-united-states-at-dakota>) | Dakota | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T10:12:23+00:00 | [Senior Software Engineer, C++](<https://cryptojobslist.com/jobs/senior-software-engineer-c-at-stellar-development-foundation>) | Stellar Development Foundation | Remote | Rust-related | Crypto Jobs List |
