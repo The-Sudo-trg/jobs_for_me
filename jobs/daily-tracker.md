@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-23T10:59:30+00:00
+Last checked: 2026-11-24T00:09:46+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,7 +8,9 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-24T00:09:46+00:00 | [Backend Engineer, Trusted Agentic Development](<https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development>) | GitLab | Remote | Rust-related | We Work Remotely |
 | 2026-11-23T10:59:30+00:00 | [Software Engineer, Product](<https://weworkremotely.com/remote-jobs/descript-software-engineer-product>) | Descript | Remote | Rust-related | We Work Remotely |
+| 2026-11-24T00:09:46+00:00 | [C++/Rust Graphics and Windowing System Software Engineer - Mir](<https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir>) | Canonical | APAC, EMEA | Rust-related | Jobicy |
 | 2026-11-22T19:54:02+00:00 | [Staff Software Engineer, Safety Processing](<https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-safety-processing>) | Discord | Remote | Rust-related | We Work Remotely |
 | 2026-11-22T19:54:02+00:00 | [Data Processing Specialist-Entry Level](<https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level>) | DLN Consulting Group | Remote | Internship / early-career software | We Work Remotely |
 | 2026-11-21T10:01:24+00:00 | [Member of Technical Staff (Storage)](<https://weworkremotely.com/remote-jobs/cockroach-labs-member-of-technical-staff-storage>) | Cockroach Labs | Remote | Rust-related | We Work Remotely |
@@ -74,6 +76,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-28T18:25:28+00:00 | [Staff Site Reliability Engineer - Dev Platform](<https://cryptojobslist.com/jobs/staff-site-reliability-engineer-dev-brazil-peru-colombia-argentina-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-06T09:37:04+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-london-united-kingdom-brazil-united-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-07T09:01:28+00:00 | [Staff Security Architect](<https://cryptojobslist.com/jobs/staff-security-architect-united-states-at-kraken>) | Kraken | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-24T00:09:46+00:00 | [Solutions Engineer](<https://cryptojobslist.com/jobs/solutions-engineer-new-york-usa-at-rain>) | Rain | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-12T20:14:45+00:00 | [Solutions Architect](<https://cryptojobslist.com/jobs/solutions-architect-zurich-switzerland-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-10T19:53:55+00:00 | [Software Engineering INTERN](<https://cryptojobslist.com/jobs/software-engineering-intern-finland-satakunta-tampere-at-microsoft>) | Microsoft | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-12T20:14:45+00:00 | [Software Engineer, Enterprise Custody](<https://cryptojobslist.com/jobs/software-engineer-enterprise-custody-united-states-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
