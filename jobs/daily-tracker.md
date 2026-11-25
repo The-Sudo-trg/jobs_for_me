@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-24T12:46:02+00:00
+Last checked: 2026-11-25T11:33:08+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,10 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-25T11:33:08+00:00 | [Validator Engineer](<https://weworkremotely.com/remote-jobs/ritual-validator-engineer>) | Ritual | Remote | Rust-related | We Work Remotely |
+| 2026-11-25T11:33:08+00:00 | [Principal Engineer, AI Platform](<https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-ai-platform>) | Pinterest | Remote | Rust-related | We Work Remotely |
+| 2026-11-25T11:33:08+00:00 | [TEE Specialist](<https://weworkremotely.com/remote-jobs/ritual-tee-specialist>) | Ritual | Remote | Rust-related | We Work Remotely |
+| 2026-11-25T11:33:08+00:00 | [Software Engineer Intern](<https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern>) | Ritual | Remote | Internship / early-career software | We Work Remotely |
 | 2026-11-24T00:09:46+00:00 | [Backend Engineer, Trusted Agentic Development](<https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development>) | GitLab | Remote | Rust-related | We Work Remotely |
 | 2026-11-23T10:59:30+00:00 | [Software Engineer, Product](<https://weworkremotely.com/remote-jobs/descript-software-engineer-product>) | Descript | Remote | Rust-related | We Work Remotely |
 | 2026-11-24T00:09:46+00:00 | [C++/Rust Graphics and Windowing System Software Engineer - Mir](<https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir>) | Canonical | APAC, EMEA | Rust-related | Jobicy |
