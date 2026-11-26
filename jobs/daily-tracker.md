@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-25T21:53:05+00:00
+Last checked: 2026-11-26T11:15:25+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-26T11:15:25+00:00 | [Junior Cloud Operations Engineer (all genders) CH](<https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099>) | BSI Software | Homeoffice | Internship / early-career software | Arbeitnow |
 | 2026-11-25T11:33:08+00:00 | [Validator Engineer](<https://weworkremotely.com/remote-jobs/ritual-validator-engineer>) | Ritual | Remote | Rust-related | We Work Remotely |
 | 2026-11-25T11:33:08+00:00 | [Principal Engineer, AI Platform](<https://weworkremotely.com/remote-jobs/pinterest-principal-engineer-ai-platform>) | Pinterest | Remote | Rust-related | We Work Remotely |
 | 2026-11-25T11:33:08+00:00 | [TEE Specialist](<https://weworkremotely.com/remote-jobs/ritual-tee-specialist>) | Ritual | Remote | Rust-related | We Work Remotely |
@@ -136,5 +137,6 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-10-27T18:08:43+00:00 | [Backend Engineer (Contract - LATAM)](<https://cryptojobslist.com/jobs/backend-engineer-contract-latam-remote-at-nexus>) | Nexus | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Backend Engineer (Blockchain Infrastructure)](<https://cryptojobslist.com/jobs/backend-engineer-blockchain-remote-at-saifuro>) | saifuro | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-29T18:35:22+00:00 | [Associate, Blockchain Security Engineer](<https://cryptojobslist.com/jobs/associate-blockchain-security-engineer-india-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-26T11:15:25+00:00 | [2027 Site Reliability Engineer Intern-Afton, Texas](<https://cryptojobslist.com/jobs/2027-site-reliability-engineer-texas-afton-texas-at-galaxy>) | Galaxy | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-17T10:56:26+00:00 | [2027 Environmental Health & Safety Engineer Intern-Afton Texas](<https://cryptojobslist.com/jobs/2027-environmental-health-safety-texas-afton-texas-at-galaxy>) | Galaxy | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-06T19:37:16+00:00 | [2027 Digital Infrastructure Intern - NYC](<https://cryptojobslist.com/jobs/2027-digital-infrastructure-intern-nyc-new-york-at-galaxy>) | Galaxy | Remote | Rust-related | Crypto Jobs List |
