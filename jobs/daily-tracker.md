@@ -1,6 +1,6 @@
 # Remote software internships and Rust jobs
 
-Last checked: 2026-11-27T21:31:01+00:00
+Last checked: 2026-11-28T10:42:49+00:00
 
 This tracker lists remote Rust-tagged roles and software internships / early-career roles.
 Sources: [Arbeitnow](https://www.arbeitnow.com/), [Remote OK](https://remoteok.com/), [Himalayas](https://himalayas.app/), [Remotive](https://remotive.com/), [Jobicy](https://jobicy.com/), [We Work Remotely](https://weworkremotely.com/), [Crypto Jobs List](https://cryptojobslist.com/).
@@ -8,6 +8,7 @@ Listings are linked to their original source; remote and eligibility restriction
 
 | First found (UTC) | Role | Company | Location | Match | Source |
 |---|---|---|---|---|---|
+| 2026-11-28T10:42:49+00:00 | [C Developer Intern (remote work)](<https://himalayas.app/companies/tuxcare-inc/jobs/c-developer-intern-remote-work?utm_source=api>) | TuxCare Inc. | Georgia | Internship / early-career software | Himalayas |
 | 2026-11-27T21:31:01+00:00 | [Principal Engineer, Network Security](<https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-security>) | Vultr | Remote | Rust-related | We Work Remotely |
 | 2026-11-27T21:31:01+00:00 | [Principal Engineer, Network Software (Traffic & Modeling)](<https://weworkremotely.com/remote-jobs/vultr-principal-engineer-network-software-traffic-modeling>) | Vultr | Remote | Rust-related | We Work Remotely |
 | 2026-11-26T11:15:25+00:00 | [Junior Cloud Operations Engineer (all genders) CH](<https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099>) | BSI Software | Homeoffice | Internship / early-career software | Arbeitnow |
@@ -112,6 +113,7 @@ Listings are linked to their original source; remote and eligibility restriction
 | 2026-11-17T10:56:26+00:00 | [Senior Build/Release/CI Engineer](<https://cryptojobslist.com/jobs/senior-build-release-ci-engineer-remote-in-americas-at-brave>) | Brave | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-28T08:49:15+00:00 | [Senior Backend Software Engineer](<https://cryptojobslist.com/jobs/senior-backend-software-engineer-new-york-at-fin>) | Fin | Remote | Rust-related | Crypto Jobs List |
 | 2026-10-22T12:41:13+00:00 | [Security Engineer, Product Security](<https://cryptojobslist.com/jobs/security-engineer-product-security-united-states-united-kingdom-new-hong-at-chainlink-labs>) | chainlink labs | Remote | Rust-related | Crypto Jobs List |
+| 2026-11-28T10:42:49+00:00 | [Security Engineer Intern](<https://cryptojobslist.com/jobs/security-engineer-intern-hybrid-new-york-ny-at-coinbase>) | Coinbase | Remote | Internship / early-career software | Crypto Jobs List |
 | 2026-11-09T10:01:55+00:00 | [Security Engineer](<https://cryptojobslist.com/jobs/security-engineer-united-states-at-tempo>) | Tempo | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-16T09:59:37+00:00 | [Security Architect](<https://cryptojobslist.com/jobs/security-architect-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
 | 2026-11-12T20:14:45+00:00 | [Rust-Simplicity Maintainer](<https://cryptojobslist.com/jobs/rust-simplicity-maintainer-at-blockstream>) | Blockstream | Remote | Rust-related | Crypto Jobs List |
